@@ -1,6 +1,5 @@
 
 < tree >
-
 ./
 ├── prisma/          # database
 ├── scripts/         # scripts
