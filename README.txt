@@ -16,3 +16,8 @@ npm run lint        # quality code
 < database >
 echo 'DATABASE_URL="file:./dev.db"' > .env  # config file
 npx prisma generate                         # gen prisma db
+
+< credentials >
+stage key : stagestream2025
+user      : admin
+pass      : 123456
